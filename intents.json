@@ -1,0 +1,30 @@
+{"intents": [
+  {"tag": "greetings",
+  "patterns": ["hello","hey","hi","good day","greetings","what's up?","how is it going?","hola"],
+  "responses": ["Hello!","Hey!","What can I do for you?"]
+  },
+  {"tag": "goodbye",
+  "patterns": ["cya","See you later","Goodbye","I am leaving","Have a good day","bye","ciao","see ya"],
+  "responses": ["Sad to see you go :(","Talk to you later","Goodbye!"]
+  },
+  {"tag": "age",
+  "patterns": ["How old are you?","How old?","What is your age?","age?","How old is K?"],
+  "responses": ["My maker K is 18 years old","I am 1 year old!"]
+  },
+  {"tag": "name",
+  "patterns": ["what is your name","what should I call you","whats you name?","who are you?","can you tell me your name?"],
+  "responses": ["You can call me Hazelivy!","I'm Hazelivy","I'm Hazelivy the assistant of K"]
+  },
+  {"tag": "app",
+  "patterns": ["Open app","Open youtube","Open instagram","Open whatsapp","Go to"],
+  "responses": ["Opening your desired app"]
+  },
+  {"tag": "",
+  "patterns": [],
+  "responses": []
+  },
+  {"tag": "",
+  "patterns": [],
+  "responses": []
+  }
+]}
